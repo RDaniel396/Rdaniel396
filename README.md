@@ -18,7 +18,7 @@ Simulation of two future observations, creating mock data to forecast the statis
 ### [Inflation and Scale-invariant R2-Gravity](https://arxiv.org/pdf/2102.11719.pdf)
 A simulation of the beginning of the Universe, assuming an extension to a well-motivated model, utilising complex mathematical and dynamical system analysis.
 
-### [Transitioning from a bounce to 𝑅2 inflation](https://arxiv.org/pdf/2212.01093.pdf)
+### [Transitioning from a bounce to R2 inflation](https://arxiv.org/pdf/2212.01093.pdf)
 Data visualisation of dynamical systems in the early universe, probing for new insights into divergent systems.
 
 <!--
