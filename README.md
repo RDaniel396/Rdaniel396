@@ -3,8 +3,8 @@
   I am PhD graduate researcher formerly in the School of Mathematics and Statistics at the University of Sheffield.
   Now, I am working and living in London, looking for a new adventure outside academia.
 ---
-
-![_25a29340-c517-4941-8a9a-5f304853667d](https://github.com/RDaniel396/Rdaniel396/assets/127308459/1b67a15a-be40-40db-aa87-ac500de4bf72)( =20x20)
+<img src="https://github.com/RDaniel396/Rdaniel396/assets/127308459/1b67a15a-be40-40db-aa87-ac500de4bf72" width=50% height=50%>
+<!-- ![_25a29340-c517-4941-8a9a-5f304853667d](https://github.com/RDaniel396/Rdaniel396/assets/127308459/1b67a15a-be40-40db-aa87-ac500de4bf72)( =20x20) -->
 
 
 <!--
