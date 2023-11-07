@@ -4,9 +4,10 @@
   Now, I am working and living in London, looking for a new adventure outside academia.
 
 ---
-<img src="https://github.com/RDaniel396/Rdaniel396/assets/127308459/1b67a15a-be40-40db-aa87-ac500de4bf72" align="left" width=10% height=10%>
+<img src="https://github.com/RDaniel396/Rdaniel396/assets/127308459/9e66c39d-ca13-4be5-a09f-1ef00e1de88c" align="left" width=10% height=10%>
 
 ## Publications
+![_25a29340-c517-4941-8a9a-5f304853667d](https://github.com/RDaniel396/Rdaniel396/assets/127308459/9e66c39d-ca13-4be5-a09f-1ef00e1de88c)
 
 
 My published scientific work can be below:
