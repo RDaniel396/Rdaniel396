@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Richard Daniel  
 
 I am PhD graduate researcher formerly in the School of Mathematics and Statistics at the University of Sheffield.
-
 Now, I am working and living in London, looking for a new adventure outside academia.
 ---
 <!--
