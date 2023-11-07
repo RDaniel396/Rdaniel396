@@ -7,8 +7,6 @@
 <img src="https://github.com/RDaniel396/Rdaniel396/assets/127308459/9e66c39d-ca13-4be5-a09f-1ef00e1de88c" align="left" width=10% height=10%>
 
 ## Publications
-![_25a29340-c517-4941-8a9a-5f304853667d](https://github.com/RDaniel396/Rdaniel396/assets/127308459/9e66c39d-ca13-4be5-a09f-1ef00e1de88c)
-
 
 My published scientific work can be below:
 
