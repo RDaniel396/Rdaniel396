@@ -1,8 +1,11 @@
-### Hi there 👋 I am Richard Daniel  
-
-I am PhD graduate researcher formerly in the School of Mathematics and Statistics at the University of Sheffield.
-Now, I am working and living in London, looking for a new adventure outside academia.
+# Hi there 👋 I am Richard Daniel  
 ---
+  I am PhD graduate researcher formerly in the School of Mathematics and Statistics at the University of Sheffield.
+  Now, I am working and living in London, looking for a new adventure outside academia.
+---
+
+
+
 <!--
 **RDaniel396/Rdaniel396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
