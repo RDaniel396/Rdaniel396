@@ -5,7 +5,7 @@
   Other than being a scientist, I am best described as a model builder, analyst, and researcher, working mainly with Python.
   
 ---
-### You can find my CV [here]()
+### You can find my CV [here](RDaniel396/CV)
 
 <img src="https://github.com/RDaniel396/Rdaniel396/assets/127308459/9e66c39d-ca13-4be5-a09f-1ef00e1de88c" align="left" width=10% height=10%>
 
