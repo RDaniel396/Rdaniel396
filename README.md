@@ -4,7 +4,7 @@
   Now, I am working and living in London, looking for a new adventure outside academia.
 ---
 
-![_25a29340-c517-4941-8a9a-5f304853667d](https://github.com/RDaniel396/Rdaniel396/assets/127308459/1b67a15a-be40-40db-aa87-ac500de4bf72 =20x20)
+![_25a29340-c517-4941-8a9a-5f304853667d](https://github.com/RDaniel396/Rdaniel396/assets/127308459/1b67a15a-be40-40db-aa87-ac500de4bf72)( =20x20)
 
 
 <!--
