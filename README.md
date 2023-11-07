@@ -15,7 +15,7 @@ My published scientific work can be below:
 
 
 ### [Forecasting Dark Energy parameters from simulated gravitational waves](https://arxiv.org/pdf/2309.06544.pdf)
-Simulation of two future observations, creating mock data to forecast the statistical constraints on dark energy parameters.
+Simulation of two future observations, creating mock data to forecast the statistical constraints on dark energy parameters. The simulation can be found [here](https://github.com/RDaniel396/GWSS/blob/b1646359ced64f342abec977f0d0b9a7c9da37d8/README.md)
 
 ### [Inflation and Scale-invariant R2-Gravity](https://arxiv.org/pdf/2102.11719.pdf)
 A simulation of the beginning of the Universe, assuming an extension to a well-motivated model, utilising complex mathematical and dynamical system analysis.
