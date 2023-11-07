@@ -1,15 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Richard Daniel  
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
-  </div>
-  <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
-  </div>
-</div>
+I am PhD graduate researcher formerly in the School of Mathematics and Statistics at the University of Sheffield.
 
+Now, I am working and living in London, looking for a new adventure outside academia.
+---
 <!--
 **RDaniel396/Rdaniel396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
