@@ -23,6 +23,12 @@ A simulation of the beginning of the Universe, assuming an extension to a well-m
 ### [Transitioning from a bounce to R2 inflation](https://arxiv.org/pdf/2212.01093.pdf)
 Data visualisation of dynamical systems in the early universe, probing for new insights into divergent systems.
 
+---
+#### Interest and hobbies
+
+Everyone needs a sport - mine is weightlifting. I competed at a national level before the pandemic, representing the University of Nottingham. 
+<!--Apart from other interests that most people have, I am also a nerd with a love for D&D, having now been promoted to becoming a DM
+>
 <!--
 **RDaniel396/Rdaniel396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
