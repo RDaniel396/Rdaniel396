@@ -24,7 +24,7 @@ A simulation of the beginning of the Universe, assuming an extension to a well-m
 Data visualisation of dynamical systems in the early universe, probing for new insights into divergent systems.
 
 ---
-#### Interest and hobbies
+#### Interests and hobbies
 
 Everyone needs a sport - mine is weightlifting. I competed at a national level before the pandemic, representing the University of Nottingham. 
 <!--Apart from other interests that most people have, I am also a nerd with a love for D&D, having now been promoted to becoming a DM
